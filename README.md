@@ -1,6 +1,6 @@
 ## Hola a todos👋
 <!-- Header 코드 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Bienvenido%20a%20mi%20GitHub%20🧑‍💻&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Bienvenido%20a%20mi%20GitHub%20🧑‍💻&fontSize=40&fontColor=333333&circleColor=90b89d)
 
 <div align="left">
   
@@ -27,7 +27,6 @@
 - 싱가포르 현지 조사
 - 멕시코 교환 학생  
 - 중남미 7개국 60일 배낭여행
-- 🌍 He tenido experiencias culturales y académicas en varios países que me ayudaron a crecer como persona y desarrollador.
 
 ---
 
