@@ -1,6 +1,11 @@
-## Hi there 👋
+## Hola a todos👋
 <!-- Header 코드 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=azure&height=300&section=header&text=Bienvenido%20a%20mi%20Github%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Bienvenido%20a%20mi%20Github%20%F0%9F%A4%97&fontSize=40)
+
+## Profile
+- Name : Yechan Lee (Emiliano)
+- Email : yechan5172@daum.net
+- I’m currently studying on  IoT Development
 
 <!--
 **emilianolee/emilianolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
