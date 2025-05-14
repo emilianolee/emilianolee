@@ -2,7 +2,7 @@
 <!-- Header 코드 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Bienvenido%20a%20mi%20GitHub%20🧑‍💻&fontSize=40)
 
-<div align="center">
+<div align="left">
   
 - I'm **Yechan Lee** (a.k.a. Emiliano), an aspiring developer passionate about IoT, software, and system-level programming.  
 - Explorando el mundo del desarrollo inteligente — un paso a la vez.
@@ -17,7 +17,7 @@
 - 🔧 I code with: **Python**, **C**, **C++**, **C# (WPF)**, **MySQL**
 - 🌱 Learning to connect the physical world with code
 - 📍 Based in South Korea  
-- 🌐 Languages: 🇬🇧 English (Intermediate) | 🇪🇸 Español (Intermedio)
+- 🌐 Languages: Korean | English | Español
 
 ---
 
@@ -35,34 +35,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Yechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechan5172&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yechan5172&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🗨️ Quote of the Day
-
-> _"Conectar el mundo real con el digital — ese es mi objetivo."_  
-> — Emiliano Lee
-
----
-
-## 📫 Contact
-
-- 📧 Email: **yechan5172@daum.net**
-- 🌐 Let's connect and build something great together!
-
----
 
 <p align="center">
-  Gracias por visitar · Thanks for stopping by 🙌  
+  Gracias por visitar :)  
 </p>
 
 <!--
