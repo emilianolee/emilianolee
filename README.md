@@ -21,6 +21,16 @@
 
 ---
 
+## 🌏 Global Experience
+
+- 미국 단기 어학 연수
+- 싱가포르 현지 조사
+- 멕시코 교환 학생  
+- 중남미 7개국 60일 배낭여행
+- 🌍 He tenido experiencias culturales y académicas en varios países que me ayudaron a crecer como persona y desarrollador.
+
+---
+
 ## 💻 Tech Stack
 
 **Languages & Tools I work with:**
@@ -32,6 +42,21 @@
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=windows&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+## 📫 Contact
+
+
+<a href="mailto:yechan5172@daum.net" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="email" height="30"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/yechanol_" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" height="30"/>
+</a>
+
+<p>Siempre abierto a nuevas conexiones y proyectos interesantes 🌟</p>
 
 ---
 
