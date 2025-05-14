@@ -48,13 +48,8 @@
 ## 📫 Contact
 
 
-<a href="mailto:yechan5172@daum.net" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="email" height="30"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/yechanol_" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" height="30"/>
-</a>
+[![Email](https://img.shields.io/badge/-yechan5172@daum.net-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yechan5172@daum.net)
+[![Instagram](https://img.shields.io/badge/-@yechanol_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yechanol_)
 
 <p>Siempre abierto a nuevas conexiones y proyectos interesantes 🌟</p>
 
