@@ -1,6 +1,6 @@
 ## Hola a todos👋
 <!-- Header 코드 -->
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Bienvenido%20a%20mi%20GitHub%20🧑‍💻&fontSize=40&fontColor=333333&circleColor=90b89d)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Bienvenido%20a%20mi%20GitHub%20🧑‍💻&fontSize=40&fontColor=333333&circleColor=90b89d&animation=scaleIn)
 
 <div align="left">
   
@@ -29,6 +29,23 @@
 - 중남미 7개국 60일 배낭여행
 
 ---
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=emilianolee&theme=calm&show_icons=true"/></a>
+</p>
+
+---
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=emilianolee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/emilianolee"
+  width="600"
+  height="300"
+/>
+</a>
+
+ --- 
 
 ## 💻 Tech Stack
 
