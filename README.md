@@ -40,7 +40,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=emilianolee&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/emilianolee"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
