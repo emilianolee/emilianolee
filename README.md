@@ -3,7 +3,40 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Bienvenido%20a%20mi%20GitHub%20🧑‍💻&fontSize=40&fontColor=333333&circleColor=90b89d&animation=scaleIn)
 
 <div align="left">
-  
+
+<h2 align="center"> 👨🏻‍💻 Profile </h2>
+<h3 align="center">Name : Lee YeChan(Emiliano) <br>
+Email : yechan5172@daum.net <br>
+Languages: Korean | English | Español</h3>
+
+<h2 align="center">✨Using Languages✨</h2>
+<div align="center">
+  <img height="50" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
+  <img height="50" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" title="C">
+  <img height="50" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" title="C++">
+  <img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
+  <img height="50" src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" title="mssql">
+<br>
+</div>
+
+<h2 align="center" style="margin-bottom: 20px;">
+  🛠️ Using Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗳️ Cowork Tools
+</h2>
+
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
+  <!-- Using Tools: Notion, GitHub 제외 -->
+  <img height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code" alt="VSCode">
+  <img height="50" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio" alt="Visual Studio">
+  <img height="50" src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" title="Database" alt="Database">
+  <img height="50" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino" alt="Arduino">
+  <img height="50" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi" alt="Raspberry Pi">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <!-- Cowork Tools: Notion 제외, GitHub만 -->
+  <img height="50" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" title="GitHub" alt="GitHub">
+</div>
+
 - I'm **Yechan Lee** (a.k.a. Emiliano), an aspiring developer passionate about IoT, software, and system-level programming.  
 - Explorando el mundo del desarrollo inteligente — un paso a la vez.
 
