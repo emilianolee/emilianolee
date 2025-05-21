@@ -34,7 +34,7 @@
   🛠️ Using & Cowork Tools 🛠️
 </h2>
 
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
   <img height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code" alt="VSCode">
   <img height="50" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio" alt="Visual Studio">
   <img height="50" src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" title="Database" alt="Database">
